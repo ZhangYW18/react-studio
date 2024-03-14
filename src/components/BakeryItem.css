@@ -1,0 +1,17 @@
+img {
+    width: 300px;
+}
+
+.card {
+    width: 300px;
+}
+
+.desc {
+    height: 70px;
+}
+
+.buy {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
